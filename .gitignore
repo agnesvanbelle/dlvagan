@@ -1,0 +1,4 @@
+venv
+large_files
+*.pyc
+.idea
